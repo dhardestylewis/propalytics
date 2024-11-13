@@ -16,7 +16,6 @@ Propalytics aims to improve a real estate investor's baseline alpha from the out
 
 Imagine an interactive heat map similar to topographical maps, but instead of elevation, each area is colored based on financial performance indicators like IRR or EqMult.
 
-![Financial Heat Map](path_to_heat_map_image)
 
 *Visualize IRR and/or EqMult on a web portal like this instead of topography.*
 
