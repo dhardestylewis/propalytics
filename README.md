@@ -174,7 +174,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 Daniel Hardesty Lewis  
-Email: [youremail@example.com](mailto:youremail@example.com)  
+Email: [DanielHardestyLewis@gmail.com](mailto:DanielHardestyLewis@gmail.com)  
 Affiliations:
 - NSF Big10
 - TOP500 Supercomputing
